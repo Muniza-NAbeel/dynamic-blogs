@@ -1,7 +1,7 @@
 export const posts = [
   {
-   slug: "Burger",
-   title: "Hamburger",
+   slug: "burger",
+   title: "Burger",
    excerpt: "The ultimate guide to crafting a delicious cheeseburger !",
    content: "A hamburger is a classic and mouth-watering dish made with a juicy patty, fresh vegetables, and a soft bun. It&apos;s the perfect combination of flavors and textures, making it a popular comfort food for people of all ages. Whether it&apos;s grilled, stacked with toppings, or served with a side of crispy fries, a hamburger is always a satisfying choice",
    image: "/burger.jpg",
